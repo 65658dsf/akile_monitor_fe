@@ -108,11 +108,16 @@ defineExpose({
 </script>
 
 <template>
-  <div class="name">CPU</div>
-  <div ref="chartRef" class="card-bg-chart"></div>
+  <div class="cpu-wrapper">
+    <div class="name">CPU</div>
+    <div ref="chartRef" class="card-bg-chart"></div>
+  </div>
 </template>
 
 <style scoped lang="scss">
+.cpu-wrapper {
+  display: block;
+}
 .name {
   margin-bottom: 10px;
   font-size: 14px;

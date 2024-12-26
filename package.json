@@ -1,6 +1,6 @@
 {
-  "name": "monitor",
-  "version": "0.0.0",
+  "name": "monitor-stellar",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -23,5 +23,6 @@
     "flag-icons-svg": "^0.0.3",
     "vite": "^6.0.1",
     "vite-plugin-vue-devtools": "^7.6.5"
-  }
+  },
+  "packageManager": "pnpm@9.9.0+sha1.3edbe440f4e570aa8f049adbd06b9483d55cc2d2"
 }

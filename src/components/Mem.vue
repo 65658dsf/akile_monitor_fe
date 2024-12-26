@@ -162,11 +162,16 @@ defineExpose({
 </script>
 
 <template>
-  <div class="name">内存</div>
-  <div ref="chartRef" class="card-bg-chart"></div>
+  <div class="mem-wrapper">
+    <div class="name">内存</div>
+    <div ref="chartRef" class="card-bg-chart"></div>
+  </div>
 </template>
 
 <style scoped lang="scss">
+.mem-wrapper {
+  display: block;
+}
 .name {
   margin-bottom: 10px;
   font-size: 14px;

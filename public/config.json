@@ -1,0 +1,8 @@
+{
+  "socket": "wss://statusapi.stellarfrp.top/ws",
+  "apiURL": "https://statusapi.stellarfrp.top",
+  "tunnelConfig": {
+    "enabled": true,
+    "apiURL": "https://api.stellarfrp.top/GetNetWork"
+  }
+}

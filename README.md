@@ -1,20 +1,14 @@
 # Akile Monitor Fe
 
-![预览]![image](https://github.com/user-attachments/assets/2a94bc98-f18b-48c8-95b1-67492bd3e0eb)![image](https://github.com/user-attachments/assets/684e3c08-21aa-489a-aa90-0f80042d69ba)
+![预览](https://github.com/akile-network/akile_monitor_fe/blob/main/akile_monitor.jpg?raw=true)
 
+Akile Monitor 前端开源项目，各位可以自行去 [Github Actions](https://github.com/akile-network/akile_monitor_fe/actions) 下载最近的构建后的文件
 
-
-![排行榜]![image](https://github.com/user-attachments/assets/6b4a7038-4877-4e65-ad5c-baf14f1c7567)
-![image](https://github.com/user-attachments/assets/864fa8cd-3351-493c-afd7-0d4506e79f77)
-
-
-
-Akile Monitor 前端开源项目-Stellar修改版，各位请自行下载源代码后构建项目
-本版在原有的基础上增加了卡片/列表视图切换，按需排序，点击网络情况卡片可以展开排行榜
+新增加Github Actions并添加修改后的config.json文件，各位可以去自行下载，并修改config.json填写自己的后端API和WS地址
 
 ## 安装
 ```bash
-git clone https://github.com/65658dsf/akile_monitor_fe.git
+git clone https://github.com/akile-network/akile_monitor_fe.git
 
 cd akile_monitor_fe
 
@@ -23,7 +17,6 @@ npm install
 
 ## 配置文件
 ```
-无需显示节点在线隧道数量请在config里面将tunnelConfig的enable改为False
 构建后config.json中进行修改
 ```
 
