@@ -23,6 +23,7 @@ npm install
 
 ## 配置文件
 ```
+无需显示节点在线隧道数量请在config里面将tunnelConfig的enable改为False
 构建后config.json中进行修改
 ```
 
