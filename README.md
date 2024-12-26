@@ -1,7 +1,8 @@
 # Akile Monitor Fe
 
-![预览](![image](https://github.com/user-attachments/assets/f9cbaeb8-9f87-423f-adda-80898bd4bc0f)
-)![image](https://github.com/user-attachments/assets/147eba17-abd3-4e1a-b071-69347b7d5f81)
+![预览]![image](https://github.com/user-attachments/assets/2a94bc98-f18b-48c8-95b1-67492bd3e0eb)![image](https://github.com/user-attachments/assets/684e3c08-21aa-489a-aa90-0f80042d69ba)
+
+
 
 ![排行榜]![image](https://github.com/user-attachments/assets/6b4a7038-4877-4e65-ad5c-baf14f1c7567)
 ![image](https://github.com/user-attachments/assets/864fa8cd-3351-493c-afd7-0d4506e79f77)
