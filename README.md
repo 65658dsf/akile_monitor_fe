@@ -1,10 +1,15 @@
 # Akile Monitor Fe
 
-![预览](https://github.com/akile-network/akile_monitor_fe/blob/main/akile_monitor.jpg?raw=true)
+![预览](![image](https://github.com/user-attachments/assets/f9cbaeb8-9f87-423f-adda-80898bd4bc0f)
+)![image](https://github.com/user-attachments/assets/147eba17-abd3-4e1a-b071-69347b7d5f81)
 
-Akile Monitor 前端开源项目，各位可以自行去 [Github Actions](https://github.com/akile-network/akile_monitor_fe/actions) 下载最近的构建后的文件
+![排行榜]![image](https://github.com/user-attachments/assets/6b4a7038-4877-4e65-ad5c-baf14f1c7567)
+![image](https://github.com/user-attachments/assets/864fa8cd-3351-493c-afd7-0d4506e79f77)
 
-新增加Github Actions并添加修改后的config.json文件，各位可以去自行下载，并修改config.json填写自己的后端API和WS地址
+
+
+Akile Monitor 前端开源项目-Stellar修改版，各位请自行下载源代码后构建项目
+本版在原有的基础上增加了卡片/列表视图切换，按需排序，点击网络情况卡片可以展开排行榜
 
 ## 安装
 ```bash
