@@ -10,15 +10,24 @@ Akile Monitor Fe-stellar
 Akile Monitor 前端开源项目-Stellar修改版，各位请自行下载源代码后构建项目 本版在原有的基础上增加了卡片/列表视图切换，按需排序，点击网络情况卡片可以展开排行榜
 
 安装
+```
 git clone https://github.com/65658dsf/akile_monitor_fe.git
 
 cd akile_monitor_fe
-
+`
 npm install
+```
+
 配置文件
+```
 无需显示节点在线隧道数量请在config里面将tunnelConfig的enable改为False
 构建后config.json中进行修改
+```
 打包
+```
 npm run build
+```
 开发
+```
 npm run dev
+```
